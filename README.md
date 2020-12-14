@@ -1,2 +1,3 @@
 # Gitworkshop
-# Gitworkshopcat README.md!
+This workshop is for WC
+
